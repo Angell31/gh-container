@@ -13,7 +13,7 @@ jobs:
       MONGODB_CONNECTION_PROTOCOL: mongodb+srv
       MONGODB_CLUSTER_ADDRESS: cluster0.gqhmm.mongodb.net
       MONGODB_USERNAME: zolander
-      MONGODB_PASSWORD:
+      MONGODB_PASSWORD: oekB3axkhSEFMUHi
       PORT: 8080
     steps:
       - name: Get code
